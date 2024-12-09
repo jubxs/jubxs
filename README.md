@@ -21,7 +21,6 @@
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=&labelColor=0D1117&textColor=0D1117)&nbsp;
-![BLOCOS](https://img.shields.io/badge/-BLOCOS-0D1117?style=for-the-badge&logo=&labelColor=0D1117&textColor=0D1117)&nbsp;
  
 ###  Ferramentas:
 
