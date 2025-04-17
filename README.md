@@ -1,6 +1,6 @@
 ## 👋 Olá, me chamo Ana Julya Ferreira!!
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#ab9fda&height=120&section=header"/>
-  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ab9fda&size=35&center=true&vCenter=true&width=1000&lines=Olá,+pode+me+chamar+de+Julya+Ferreira;Eu+estudo+programação+de+forma+autônoma;Seja+Bem-vindo+ao+meu+GitHub!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
